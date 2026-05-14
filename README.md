@@ -148,17 +148,18 @@ Your project is ready to make your own
 Step 1: Find the Stars Array
 Open index.html in any code editor (VS Code, Notepad++, or even Notepad). Scroll down until you find the stars array. It looks like this:
 
-javascript
+```bash
 // ==========================================
 // 📌 EDIT YOUR INFORMATION HERE
 // ==========================================
 const stars = [
     // Your stars go here...
 ];
+```
 Step 2: Understand the Star Structure
 Each star has these properties:
 
-javascript
+```bash
 {
     id: 'about',                    // Unique ID for this star
     label: 'About Me',              // Text shown below the star
@@ -173,6 +174,7 @@ javascript
         <p>📍 San Francisco, CA</p>
     `
 }
+```
 Step 3: Change Your Information
 Edit the content for each star to match your own information:
 
@@ -206,7 +208,7 @@ y = 100 → bottom of screen
 Step 5: Create Your Constellation Pattern
 Use the connect array to draw lines between stars:
 
-javascript
+```bash
 // Connect to one star
 connect: ['skills']
 
@@ -215,6 +217,7 @@ connect: ['skills', 'projects', 'contact']
 
 // No connections at all
 connect: []
+```
 Step 6: Add or Remove Stars
 To add a new star: Copy an existing star object and paste it into the array. Give it a unique id, set its label, choose a position with x and y, and add your content.
 

@@ -148,10 +148,11 @@ Your project is ready to make your own
 Step 1: Find the Stars Array
 Open index.html in any code editor (VS Code, Notepad++, or even Notepad). Scroll down until you find the stars array. It looks like this:
 
-```bash
+
 // ==========================================
 // 📌 EDIT YOUR INFORMATION HERE
 // ==========================================
+```bash
 const stars = [
     // Your stars go here...
 ];
@@ -423,4 +424,4 @@ A: Yes, you can edit or remove any content in the stars array to make it entirel
 Q: Does this work offline?
 A: Yes! Since there are no external dependencies, the entire project works offline once downloaded.
 
-<p align="center"> <br> <b>Made with ✨ and 🌌 by <a href="https://www.youtube.com/@mountain8474">Mountain</a></b> <br> <i>May your stars always shine bright!</i> <br><br> <a href="https://www.youtube.com/watch?v=Bq83ZkTeeao"> <img src="https://img.shields.io/badge/📺_Watch_Tutorial-red?style=for-the-badge&logo=youtube" alt="Watch Tutorial"> </a> <br><br> <sub>⭐ If you like this project, please consider giving it a star!</sub> </p> ```
+<p align="center"> <br> <b>Made with ✨ and 🌌 by <a href="https://www.youtube.com/@mountain8474">Mountain</a></b> <br> <i>May your stars always shine bright!</i> <br><br> <a href="https://www.youtube.com/watch?v=Bq83ZkTeeao"> <img src="https://img.shields.io/badge/📺_Watch_Tutorial-red?style=for-the-badge&logo=youtube" alt="Watch Tutorial"> </a> <br><br> <sub>⭐ If you like this project, please consider giving it a star!</sub> </p> 

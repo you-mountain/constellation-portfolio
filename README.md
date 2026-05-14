@@ -98,7 +98,7 @@ Want to see exactly how it was built? I made a complete step-by-step tutorial wa
 git clone https://github.com/you-mountain/constellation-portfolio.git
 cd constellation-portfolio
 open index.html
-
+```
 Method 2: Download as ZIP
 Click the green Code button at the top of this page
 

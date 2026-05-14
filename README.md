@@ -18,7 +18,7 @@ Check out the full tutorial and demo on my YouTube channel: **[Mountain](https:/
 
 ## 🚀 Live Demo & Tutorial
 
-*   **Live Website:** [View Demo](https://yourusername.github.io/constellation-portfolio)
+*   **Live Website:** [View Demo](https://github.com/you-mountain/constellation-portfolio)
 *   **Full Tutorial:** [Watch on YouTube](https://www.youtube.com/@mountain8474)
 
 ## ✨ Features
